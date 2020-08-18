@@ -1,0 +1,58 @@
+"DEPCODE","County","Facility","Security_Quarantine","Medical_Quarantine","Medical_Isolation","Pending_Tests","Negative_Tests","Positive_Tests","Staff_Positive_Tests","Sex","Address","City","Zip","Deaths"
+NA,NA,"Apalachee CI","3","103","0","0","1657","152","20",NA,NA,NA,NA,NA
+NA,NA,"Avon Park CI","2","903","15","206","1227","164","25",NA,NA,NA,NA,NA
+NA,NA,"Baker CI","15","169","3","3","22","2","4",NA,NA,NA,NA,NA
+NA,NA,"Bay CF","3","496","16","292","399","230","10",NA,NA,NA,NA,NA
+NA,NA,"Blackwater CF","6","0","0","0","1825","101","17",NA,NA,NA,NA,NA
+NA,NA,"Calhoun CI","0","0","0","0","2","0","1",NA,NA,NA,NA,NA
+NA,NA,"Century CI","5","3","0","0","9","0","14",NA,NA,NA,NA,NA
+NA,NA,"CFRC","235","246","15","1219","26","20","18",NA,NA,NA,NA,NA
+NA,NA,"Charlotte CI","18","118","2","2","5","0","6",NA,NA,NA,NA,NA
+NA,NA,"Columbia CI","15","1127","155","474","300","455","31",NA,NA,NA,NA,NA
+NA,NA,"Cross City CI","6","0","0","0","4","0","4",NA,NA,NA,NA,NA
+NA,NA,"Dade CI","8","376","2","33","1399","55","108",NA,NA,NA,NA,NA
+NA,NA,"Desoto Annex","5","389","3","533","1135","122","4",NA,NA,NA,NA,NA
+NA,NA,"Everglades CI","0","365","138","138","2151","188","64",NA,NA,NA,NA,NA
+NA,NA,"Florida State Prison","4","10","0","0","4","0","20",NA,NA,NA,NA,NA
+NA,NA,"Franklin CI","0","85","1","1","1","0","3",NA,NA,NA,NA,NA
+NA,NA,"FWRC","59","521","44","185","9","6","9",NA,NA,NA,NA,NA
+NA,NA,"Gadsden CF","0","0","0","0","1116","92","22",NA,NA,NA,NA,NA
+NA,NA,"Gadsden Re-Entry Center","0","0","0","0","0","0","2",NA,NA,NA,NA,NA
+NA,NA,"Graceville CF","0","548","0","791","333","123","12",NA,NA,NA,NA,NA
+NA,NA,"Gulf CI","0","1","0","0","1","0","8",NA,NA,NA,NA,NA
+NA,NA,"Hamilton CI","4","362","2","2","1087","204","21",NA,NA,NA,NA,NA
+NA,NA,"Hardee CI","6","56","1","1","2","0","11",NA,NA,NA,NA,NA
+NA,NA,"Hernando CI","4","0","0","0","2","0","2",NA,NA,NA,NA,NA
+NA,NA,"Holmes CI","407","439","18","41","1105","156","15",NA,NA,NA,NA,NA
+NA,NA,"Homestead CI","5","0","0","0","507","302","41",NA,NA,NA,NA,NA
+NA,NA,"Jackson CI","22","0","0","0","9","0","9",NA,NA,NA,NA,NA
+NA,NA,"Jefferson CI","4","240","6","126","6","3","28",NA,NA,NA,NA,NA
+NA,NA,"Lake CI","7","10","1","2","15","0","7",NA,NA,NA,NA,NA
+NA,NA,"Lake City CF","3","0","0","0","1","0","5",NA,NA,NA,NA,NA
+NA,NA,"Lancaster CI","13","0","0","0","704","34","8",NA,NA,NA,NA,NA
+NA,NA,"Lawtey CI","0","0","0","0","6","0","3",NA,NA,NA,NA,NA
+NA,NA,"Liberty CI","2","0","0","0","1740","215","13",NA,NA,NA,NA,NA
+NA,NA,"Lowell CI","56","760","35","183","14","2","10",NA,NA,NA,NA,NA
+NA,NA,"Madison CI","1","652","1","1","1015","25","13",NA,NA,NA,NA,NA
+NA,NA,"Marion CI","3","0","0","0","6","0","2",NA,NA,NA,NA,NA
+NA,NA,"Martin CI","31","0","0","0","18","1","5",NA,NA,NA,NA,NA
+NA,NA,"Mayo Annex","4","1","0","0","7","0","1",NA,NA,NA,NA,NA
+NA,NA,"Moore Haven CF","2","274","1","27","668","146","22",NA,NA,NA,NA,NA
+NA,NA,"New River CI","3","67","1","1","3","0","2",NA,NA,NA,NA,NA
+NA,NA,"NWFRC","33","357","4","160","18","1","8",NA,NA,NA,NA,NA
+NA,NA,"Okaloosa CI","154","65","1","3","1092","8","7",NA,NA,NA,NA,NA
+NA,NA,"Okeechobee CI","1","0","0","0","6","0","9",NA,NA,NA,NA,NA
+NA,NA,"Polk CI","0","728","138","138","878","204","23",NA,NA,NA,NA,NA
+NA,NA,"Putnam CI","0","0","0","0","2","0","2",NA,NA,NA,NA,NA
+NA,NA,"RMC","10","6","0","0","12","1","16",NA,NA,NA,NA,NA
+NA,NA,"Santa Rosa CI","20","1235","118","118","11","3","22",NA,NA,NA,NA,NA
+NA,NA,"SFRC","65","473","20","40","2050","88","99",NA,NA,NA,NA,NA
+NA,NA,"South Bay CF","13","596","1","91","1660","227","70",NA,NA,NA,NA,NA
+NA,NA,"Sumter CI","2","0","0","0","67","103","23",NA,NA,NA,NA,NA
+NA,NA,"Suwannee CI","13","93","1","1","9","0","16",NA,NA,NA,NA,NA
+NA,NA,"Taylor CI","10","254","3","3","8","0","3",NA,NA,NA,NA,NA
+NA,NA,"Tomoka CI","5","6","2","2","98","138","28",NA,NA,NA,NA,NA
+NA,NA,"Union CI","7","95","4","4","1148","29","8",NA,NA,NA,NA,NA
+NA,NA,"Wakulla CI","19","610","182","934","215","87","19",NA,NA,NA,NA,NA
+NA,NA,"Walton CI","0","0","0","0","1","0","1",NA,NA,NA,NA,NA
+NA,NA,"Zephyrhills CI","3","0","0","0","16","0","7",NA,NA,NA,NA,NA
