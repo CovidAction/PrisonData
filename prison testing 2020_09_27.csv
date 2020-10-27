@@ -1,0 +1,58 @@
+"DEPCODE","County","Facility","Security_Quarantine","Medical_Quarantine","Medical_Isolation","Pending_Tests","Negative_Tests","Positive_Tests","Staff_Positive_Tests","Sex","Address","City","Zip","Deaths"
+2,"Baker","Baker CI","8","106","0","0","912","568","45","MALE","20706 US HWY 90 WEST","SANDERSON",32087,1
+3,"Bay","Bay CF","0","0","1","1","689","341","41","MALE","5400 BAYLINE DR.","PANAMA CITY",32404,1
+4,"Bradford","Lawtey CI","0","0","1","1","6","0","6","MALE","22298 NE CR 200-B, LAWTEY","LAWTEY",32058,0
+7,"Calhoun","Calhoun CI","0","16","1","1","1564","154","16","MALE","19562 SE INSTITUTION DRIVE","BLOUNTSTOWN",32424,0
+8,"Charlotte","Charlotte CI","3","1","1","1","1260","54","21","MALE","33123 OIL WELL RD.","PUNTA GORDA",33955,0
+12,"Columbia","Columbia CI","3","134","3","1","797","1369","90","MALE","216 SE CORRECTIONS WAY","LAKE CITY",32025,9
+12,"Columbia","Lake City CF","0","0","0","0","758","69","18","MALE","7906 E US HWY 90","LAKE CITY",32055,0
+13,"Dade","Everglades CI","0","184","4","4","2250","361","107","MALE","1599 S.W. 187TH AVENUE","MIAMI",33194,6
+13,"Dade","Dade CI","0","142","4","0","1445","97","168","MALE","19000 SW 377TH STREET","FLORIDA CITY",33034,10
+13,"Dade","SFRC","108","237","4","1","2100","204","151","MALE","14000 N.W. 41ST STREET","DORAL",33178,17
+13,"Dade","Homestead CI","2","35","0","0","520","302","51","FEMALE","19000 S.W. 377 STREET","FLORIDA CITY",33034,2
+14,"Desoto","Desoto Annex","7","187","5","1","1692","211","35","MALE","13617 SE HWY 70","ARCADIA",34266,0
+15,"Dixie","Cross City CI","0","223","0","0","1311","305","57","MALE","568 N.E. 255TH STREET","CROSS CITY",32628,3
+17,"Escambia","Century CI","63","2","1","0","748","773","42","MALE","400 TEDDER ROAD","CENTURY",32535,3
+19,"Franklin","Franklin CI","0","0","0","0","888","321","41","MALE","1760 HIGHWAY 67N","CARRABELLE",32322,0
+20,"Gadsden","Gadsden Re-Entry Center","0","0","0","0","113","206","33","MALE","630 OPPORTUNITY LANE","HAVANA",32333,0
+20,"Gadsden","Gadsden CF","42","0","0","0","1187","92","28","FEMALE","6044 GREENSBORO HIGHWAY","QUINCY",32351,0
+21,"Gilchrist","Lancaster CI","10","0","0","0","706","33","34","MALE","3449 SW SR 26","TRENTON",32693,0
+22,"Glades","Moore Haven CF","179","129","0","0","718","156","30","MALE","1282 EAST STATE RD. 78","MOORE HAVEN",33471,0
+23,"Gulf","Gulf CI","0","0","4","1","945","262","38","MALE","500 IKE STEEL ROAD","WEWAHITCHKA",32465,0
+24,"Hamilton","Hamilton CI","2","712","130","7","2058","343","56","MALE","10650 SW 46TH ST","JASPER",32052,0
+25,"Hardee","Hardee CI","0","290","24","12","1574","107","65","MALE","6901 STATE ROAD 62","BOWLING GREEN",33834,0
+27,"Hernando","Hernando CI","1","0","0","0","3","0","5","FEMALE","16415 SPRING HILL DRIVE","BROOKSVILLE",34604,0
+28,"Highlands","Avon Park CI","0","0","0","0","1269","230","53","MALE","8100 HIGHWAY 64 EAST","AVON PARK",33825,3
+30,"Holmes","Holmes CI","0","0","0","0","1139","170","33","MALE","3142 THOMAS DRIVE","BONIFAY",32425,1
+32,"Jackson","Apalachee CI","114","77","1","0","1659","153","33","MALE","35 APALACHEE DRIVE","SNEADS",32460,0
+32,"Jackson","Jackson CI","4","190","8","1","1308","202","53","MALE","5563 10TH STREET","MALONE",32445,1
+32,"Jackson","Graceville CF","41","4","0","4","1295","667","46","MALE","5168 EZELL ROAD","GRACEVILLE",32440,6
+33,"Jefferson","Jefferson CI","13","0","0","0","328","257","51","MALE","1050 BIG JOE ROAD","MONTICELLO",32344,0
+34,"Lafayette","Mayo Annex","0","179","1","2","477","954","52","MALE","8784 US 27 WEST","MAYO",32066,1
+35,"Lake","Lake CI","4","0","0","0","983","106","43","MALE","19225 U. S. HWY 27","CLERMONT",34715,1
+39,"Liberty","Liberty CI","74","384","7","2","1753","227","42","MALE","LIBERTY COUNTY RD. 1641","BRISTOL",32321,3
+40,"Madison","Madison CI","8","300","5","3","1084","113","56","MALE","382 SW MCI WAY","MADISON",32340,1
+42,"Marion","Marion CI","44","0","0","0","1124","313","30","MALE","3269 NW 105TH. STREET","LOWELL",32663,0
+42,"Marion","FWRC","67","57","1","1","282","485","47","FEMALE","3700 NW 111TH PLACE","OCALA",34482,3
+42,"Marion","Lowell CI","7","56","2","0","1273","1005","71","FEMALE","11120 NW GAINESVILLE ROAD","OCALA",34482,2
+43,"Martin","Martin CI","28","158","3","1","26","2","11","MALE","1150 SW ALLAPATTAH RD","INDIANTOWN",34956,0
+46,"Okaloosa","Okaloosa CI","31","0","0","0","1102","12","16","MALE","3189 COLONEL GREG MALLOY ROAD","CRESTVIEW",32539,0
+47,"Okeechobee","Okeechobee CI","1","1147","98","28","2411","109","49","MALE","3420 NE 168TH STREET","OKEECHOBEE",34972,0
+48,"Orange","CFRC","260","336","11","1","1983","270","62","MALE","7000 H.C. KELLEY RD.","ORLANDO",32831,2
+50,"Palm Beach","South Bay CF","19","49","0","0","2014","419","84","MALE","600 US HIGHWAY 27 SOUTH","SOUTH BAY",33493,6
+51,"Pasco","Zephyrhills CI","6","133","1","1","18","0","15","MALE","2739 GALL BOULEVARD","ZEPHYRHILLS",33541,0
+53,"Polk","Polk CI","9","0","0","0","1063","210","34","MALE","10800 EVANS ROAD","POLK CITY",33868,0
+54,"Putnam","Putnam CI","3","0","0","0","2","0","8","MALE","128 YELVINGTON ROAD","EAST PALATKA",32131,0
+57,"Santa Rosa","Blackwater CF","52","53","0","49","2180","122","26","MALE","5914 JEFF ATES ROAD","MILTON",32583,7
+57,"Santa Rosa","Santa Rosa CI","6","0","0","0","1734","808","167","MALE","5850 E. MILTON ROAD","MILTON",32583,0
+60,"Sumter","Sumter CI","0","12","1","1","68","103","35","MALE","9544 COUNTY ROAD 476B","BUSHNELL",33513,3
+61,"Suwannee","Suwannee CI","2","57","28","0","1080","849","119","MALE","5964 U.S. HIGHWAY 90","LIVE OAK",32060,7
+62,"Taylor","Taylor CI","13","409","31","0","1481","710","35","MALE","8501 HAMPTON SPRINGS ROAD","PERRY",32348,2
+63,"Union","Florida State Prison","4","218","11","1","1808","150","66","MALE","23916 NW 83RD AVENUE","RAIFORD",32083,0
+63,"Union","Union CI","1","872","41","5","1710","172","75","MALE","25636 NE SR 16","RAIFORD",32083,4
+63,"Union","New River CI","0","0","0","0","1044","102","15","MALE","8000 N.W. 80TH PLACE","RAIFORD",32083,1
+63,"Union","RMC","95","649","11","14","1947","282","102","MALE","8035 S. COUNTY ROAD 231","LAKE BUTLER",32054,19
+64,"Volusia","Tomoka CI","9","0","0","0","98","139","30","MALE","3950 TIGER BAY ROAD","DAYTONA BEACH",32124,0
+65,"Wakulla","Wakulla CI","2","271","10","6","2589","255","157","MALE","110 MELALEUCA DRIVE","CRAWFORDVILLE",32327,5
+66,"Walton","Walton CI","18","0","0","0","4","0","4","MALE","691 INSTITUTION ROAD","DEFUNIAK SPRINGS",32433,0
+67,"Washington","NWFRC","196","274","0","0","1622","313","50","MALE","STATE ROAD 279","CHIPLEY",32428,0
